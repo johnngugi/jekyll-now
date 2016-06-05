@@ -21,7 +21,7 @@ Profiles
 Audits
 Console
 
-Elements
+##Elements
 
 The Elements panel lets you view structured information about the current page. You can use the Elements panel for a variety of tasks:
 
