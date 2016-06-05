@@ -1,3 +1,7 @@
+---
+layout: post
+title: Chrome Developer Tools
+---
 #Chrome Developer Tools
 
 Most browsers have what are known as Developer Tools. These tools allow us to inspect an element on a page, see where that element lives within the HTML document, and see what CSS properties and values are being applied to it. Most of these tools also include a box model diagram to show the computed size of an element.
