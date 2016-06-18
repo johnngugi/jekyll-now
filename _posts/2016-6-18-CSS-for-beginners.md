@@ -29,6 +29,6 @@ The properties accept values specific to the properties. For example: p {
 }
 In this example the color property has a value of green.
 
-## Colors
+## The Cascade
 
-There are several ways to put color values.
+Within CSS, all styles cascade from the top of a style sheet to the bottom, allowing different styles to be added or overwritten as the style sheet progresses. This allows different styles to be applied and overwritten.   
