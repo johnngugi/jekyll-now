@@ -1,4 +1,4 @@
-# HTML
+<html></html>
 
 ## HTML basics for Beginners
 
@@ -23,11 +23,6 @@ For example <a href="http://www.google.com/">Google</a>, the href attribute prov
 All HTML documents require the following tags:
 <DOCTYPE html>
 <html>
-<head>
-<body>
-
-
-
-
-
-
+<head></head>
+<body></body>
+</html>
