@@ -1,5 +1,6 @@
 ---
 layout: post
+title: HTML for Beginners
 ---
 
 ## HTML basics for Beginners
