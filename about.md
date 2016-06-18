@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A young aspiring software engineer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My favorite hobby is watching football. I also enjoy playing video games and watching movies.
 
 ### Contact me
 
