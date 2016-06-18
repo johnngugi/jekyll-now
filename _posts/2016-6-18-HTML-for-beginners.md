@@ -1,4 +1,6 @@
-<html></html>
+---
+layout: post
+---
 
 ## HTML basics for Beginners
 
