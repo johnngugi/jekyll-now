@@ -3,6 +3,8 @@ layout: post
 title: Object Oriented Programming
 ---
 
+A description of Object Oriented Programming
+
 # Object Oriented Programming
 
 Object-oriented programming (OOP) is a style of programming that focuses on using objects to
