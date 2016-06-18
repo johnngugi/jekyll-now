@@ -3,6 +3,8 @@ layout: post
 title: HTML for Beginners
 ---
 
+An intro into the world of HTML for beginners
+
 ## HTML basics for Beginners
 
 HTML is a type of language used to make webpages. HTML gives content structure and meaning by defining the content as, for example, headings, paragraphs, or images.
