@@ -6,7 +6,7 @@ HTML is a type of language used to make webpages. HTML gives content structure a
 
 ### Elements
 
-Elements are designators that define the contents and structure of a webpage, for example headings, paragraphs, images, links. Elements are surrounded by less than < and greater than > angle brackets. For example <h1> is identified as a heading.
+Elements are designators that define the contents and structure of a webpage, for example headings, paragraphs, images, links. Elements are surrounded by less than < and greater than > angle brackets. For example ```<h1>``` is identified as a heading.
 
 ### Tags
 
