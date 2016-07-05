@@ -9,14 +9,15 @@ An explanation of encapsulation.
 
 Encapsulation in Java is a mechanism of wrapping the data and code acting on the data together as as single unit. In encapsulation the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class, therefore it is also known as data hiding.Encapsulation is like your bag in which you can keep your pen, book etc. It means this is the property of encapsulating members and functions.
 
-```
+~~~Java
+
 public class EncapTest {
 
    private String name;
    private String idNum;
    private int age;
  }
- ```
+ ~~~
 
  In the above example the variables name and idNum are not available to outside classes.
 
@@ -28,8 +29,8 @@ Getters start with get, followed by the variable name, with the first letter of 
 Setters start with set, followed by the variable name, with the first letter of the variable name capitalized.
 
 Example:
+~~~Java
 
-```
 public class EncapTest {
 
    private String name;
@@ -49,6 +50,6 @@ public class EncapTest {
      idNum = newNum;
    }
  }
-```
+~~~
 
 In the above example the get method is used to return the values of **name** and **idNum**, and the set method is used to set the values of **newName** and **newNum**.
