@@ -17,7 +17,7 @@ public class EncapTest {
    private String idNum;
    private int age;
  }
- ~~~
+
 
  In the above example the variables name and idNum are not available to outside classes.
 
@@ -50,6 +50,6 @@ public class EncapTest {
      idNum = newNum;
    }
  }
-~~~
+
 
 In the above example the get method is used to return the values of **name** and **idNum**, and the set method is used to set the values of **newName** and **newNum**.
